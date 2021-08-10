@@ -1,0 +1,24 @@
+{
+  "name": "hakalearn-hol-rehearsal",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Hakalearn-hol-rehearsal",
+  "author": "YouJin Jung",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "azure-functions-core-tools": "^3.0.3568",
+    "g": "^2.0.1",
+    "gatsby": "^3.11.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
